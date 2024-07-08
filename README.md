@@ -1,6 +1,6 @@
 # Carya.tn
 
-![Carya.tn Logo](./carya.tn/assets/images/Logo1.png)
+![Carya.tn Logo](./assets/images/Logo1.png)
 </br>
 [![Made_With_Love](http://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com)
 
@@ -9,7 +9,7 @@ Welcome to Carya.tn, a car rental platform designed to make your car rental expe
 
 ## About the website
 
-<img src="./carya.tn/assets/images/screenshot.jpg" alt="Carya.tn Screen Shot" style="width: 70%; max-width: 600px;">
+<img src="./assets/images/screenshot.jpg" alt="Carya.tn Screen Shot" style="width: 70%; max-width: 600px;">
 </br>
 
 Carya.tn is a car rental service that offers a wide range of vehicles for rent. Our mission is to provide our customers with the best possible car rental experience, offering competitive rates, excellent customer service, and a wide selection of vehicles to choose from. Whether you need a car for a day, a week, or longer, we have the perfect vehicle for your needs.
@@ -50,11 +50,11 @@ Thanks to [ChatGPT](https://chat.openai.com/chat) and [CoPilot](https://github.c
 
 <table>
   <tr>
-    <td><a href="https://github.com/Jozziiff"><img src="./carya.tn/assets/images/jozef.jpg" alt="Hamdani Youssef" style="width: 100px; height: 100px;"></a></td>
-    <td><a href="https://github.com/Rayen-Hamza"><img src="./carya.tn/assets/images/rayen.jpg" alt="Rayen Hamza" style="width: 100px; height: 100px;"></a></td>
-    <td><a href="https://github.com/youssefnoob003"><img src="./carya.tn/assets/images/charfi.jpg" alt="Youssef Charfeddin" style="width: 100px; height: 100px;"></a></td>
-    <td><a href="https://github.com/Mehdi4070"><img src="./carya.tn/assets/images/mehdi.jpg" alt="Mehdi Lahouimel" style="width: 100px; height: 100px;"></a></td>
-    <td><a href="https://github.com/OussemaNehdi"><img src="./carya.tn/assets/images/oussema.jpg" alt="Oussema Nehdi" style="width: 100px; height: 100px;"></a></td>
+    <td><a href="https://github.com/Jozziiff"><img src="./assets/images/jozef.jpg" alt="Hamdani Youssef" style="width: 100px; height: 100px;"></a></td>
+    <td><a href="https://github.com/Rayen-Hamza"><img src="./assets/images/rayen.jpg" alt="Rayen Hamza" style="width: 100px; height: 100px;"></a></td>
+    <td><a href="https://github.com/youssefnoob003"><img src="./assets/images/charfi.jpg" alt="Youssef Charfeddin" style="width: 100px; height: 100px;"></a></td>
+    <td><a href="https://github.com/Mehdi4070"><img src="./assets/images/mehdi.jpg" alt="Mehdi Lahouimel" style="width: 100px; height: 100px;"></a></td>
+    <td><a href="https://github.com/OussemaNehdi"><img src="./assets/images/oussema.jpg" alt="Oussema Nehdi" style="width: 100px; height: 100px;"></a></td>
   </tr>
   <tr>
     <td><a href="https://github.com/Jozziiff">Hamdani Youssef</a></td>
